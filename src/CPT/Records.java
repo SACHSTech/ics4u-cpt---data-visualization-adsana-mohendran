@@ -13,7 +13,8 @@ public class Records{
             BufferedReader br = new BufferedReader(new FileReader("C:/Users/adsan/Desktop/ICS4U1/PriceIndex.csv"));
            String line = "";
             while((line = br.readLine()) != null){
-                System.out.println(line);
+                String[] records = line.split(",");
+                System.out.println("Date: " + records[0] + ", Geo: " + records[1] + ", Products/Products Group:  " + records[2] + ", Value: " + records[3]);
             }
         }catch (FileNotFoundException e){
             e.printStackTrace();
