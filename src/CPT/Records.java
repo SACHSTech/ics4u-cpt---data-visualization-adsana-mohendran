@@ -3,9 +3,11 @@ package CPT;
 import java.io.*;
 
 
+
 public class Records{
     public static void main(String[] args) throws IOException{
-     
+    
+     BufferedReader key = new BufferedReader(new InputStreamReader(System.in));
         // reading csv file
 
 
