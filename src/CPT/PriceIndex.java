@@ -1,12 +1,14 @@
 package CPT;
 
+import java.io.*;
 import java.io.BufferedReader;
+import java.util.StringTokenizer;
 
 public class PriceIndex {
      
     public static void main(String[] args) throws IOException{
 
-        String strInput = "";
+        String strInput = " ";
         String strRecord[];
         int intDate[];
         String strGeo[];
@@ -16,7 +18,7 @@ public class PriceIndex {
         int intRecCount = 0;
 
         // read csv file
-
+        
         BufferedReader readFile = new BufferedReader(new FileReader("PriceIndex.csv"));
         BufferedReader key = new BufferedReader(new InputStreamReader(System.in));
         // count record
