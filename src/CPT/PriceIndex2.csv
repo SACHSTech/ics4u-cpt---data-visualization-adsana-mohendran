@@ -109,41 +109,41 @@ REF_DATE,GEO,Products and product groups,VALUE
 2020-09,Canada,Rent,127.3
 2020-10,Canada,Rent,127.5
 2020-11,Canada,Rent,127.7
-2020-07,Canada,Tenants insurance premiums,112.0
-2020-08,Canada,Tenants insurance premiums,112.7
-2020-09,Canada,Tenants insurance premiums,113.3
-2020-10,Canada,Tenants insurance premiums,113.2
-2020-11,Canada,Tenants insurance premiums,113.9
-2020-07,Canada,"Tenants maintenance, repairs and other expenses",141.7
-2020-08,Canada,"Tenants maintenance, repairs and other expenses",141.7
-2020-09,Canada,"Tenants maintenance, repairs and other expenses",145.2
-2020-10,Canada,"Tenants maintenance, repairs and other expenses",148.7
-2020-11,Canada,"Tenants maintenance, repairs and other expenses",148.7
+2020-07,Canada,Tenants' insurance premiums,112.0
+2020-08,Canada,Tenants' insurance premiums,112.7
+2020-09,Canada,Tenants' insurance premiums,113.3
+2020-10,Canada,Tenants' insurance premiums,113.2
+2020-11,Canada,Tenants' insurance premiums,113.9
+2020-07,Canada,"Tenants' maintenance repairs and other expenses",141.7
+2020-08,Canada,"Tenants' maintenance repairs and other expenses",141.7
+2020-09,Canada,"Tenants' maintenance repairs and other expenses",145.2
+2020-10,Canada,"Tenants' maintenance repairs and other expenses",148.7
+2020-11,Canada,"Tenants' maintenance repairs and other expenses",148.7
 2020-07,Canada,Mortgage interest cost,119.2
 2020-08,Canada,Mortgage interest cost,118.8
 2020-09,Canada,Mortgage interest cost,118.2
 2020-10,Canada,Mortgage interest cost,117.4
 2020-11,Canada,Mortgage interest cost,116.3
-2020-07,Canada,Homeowners replacement cost,170.1
-2020-08,Canada,Homeowners replacement cost,170.5
-2020-09,Canada,Homeowners replacement cost,171.6
-2020-10,Canada,Homeowners replacement cost,174.0
-2020-11,Canada,Homeowners replacement cost,175.9
+2020-07,Canada,Homeowners' replacement cost,170.1
+2020-08,Canada,Homeowners' replacement cost,170.5
+2020-09,Canada,Homeowners' replacement cost,171.6
+2020-10,Canada,Homeowners' replacement cost,174.0
+2020-11,Canada,Homeowners' replacement cost,175.9
 2020-07,Canada,Property taxes and other special charges,167.2
 2020-08,Canada,Property taxes and other special charges,167.2
 2020-09,Canada,Property taxes and other special charges,167.2
 2020-10,Canada,Property taxes and other special charges,170.3
 2020-11,Canada,Property taxes and other special charges,170.3
-2020-07,Canada,Homeowners home and mortgage insurance,262.9
-2020-08,Canada,Homeowners home and mortgage insurance,262.9
-2020-09,Canada,Homeowners home and mortgage insurance,265.4
-2020-10,Canada,Homeowners home and mortgage insurance,265.0
-2020-11,Canada,Homeowners home and mortgage insurance,265.0
-2020-07,Canada,Homeowners maintenance and repairs,141.5
-2020-08,Canada,Homeowners maintenance and repairs,141.5
-2020-09,Canada,Homeowners maintenance and repairs,142.5
-2020-10,Canada,Homeowners maintenance and repairs,143.6
-2020-11,Canada,Homeowners maintenance and repairs,143.6
+2020-07,Canada,Homeowners' home and mortgage insurance,262.9
+2020-08,Canada,Homeowners' home and mortgage insurance,262.9
+2020-09,Canada,Homeowners' home and mortgage insurance,265.4
+2020-10,Canada,Homeowners' home and mortgage insurance,265.0
+2020-11,Canada,Homeowners' home and mortgage insurance,265.0
+2020-07,Canada,Homeowners' maintenance and repairs,141.5
+2020-08,Canada,Homeowners' maintenance and repairs,141.5
+2020-09,Canada,Homeowners' maintenance and repairs,142.5
+2020-10,Canada,Homeowners' maintenance and repairs,143.6
+2020-11,Canada,Homeowners' maintenance and repairs,143.6
 2020-07,Canada,Other owned accommodation expenses,171.9
 2020-08,Canada,Other owned accommodation expenses,172.5
 2020-09,Canada,Other owned accommodation expenses,173.6
@@ -359,11 +359,11 @@ REF_DATE,GEO,Products and product groups,VALUE
 2020-09,Canada,Passenger vehicle registration fees,139.9
 2020-10,Canada,Passenger vehicle registration fees,139.9
 2020-11,Canada,Passenger vehicle registration fees,139.9
-2020-07,Canada,Drivers licences,174.5
-2020-08,Canada,Drivers licences,174.5
-2020-09,Canada,Drivers licences,174.5
-2020-10,Canada,Drivers licences,174.5
-2020-11,Canada,Drivers licences,174.5
+2020-07,Canada,Drivers' licences,174.5
+2020-08,Canada,Drivers' licences,174.5
+2020-09,Canada,Drivers' licences,174.5
+2020-10,Canada,Drivers' licences,174.5
+2020-11,Canada,Drivers' licences,174.5
 2020-07,Canada,Parking fees,200.3
 2020-08,Canada,Parking fees,200.3
 2020-09,Canada,Parking fees,200.2
