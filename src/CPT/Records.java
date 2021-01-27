@@ -7,7 +7,10 @@ import java.util.*;
 public class Records{
     // store PI records
     private ArrayList<PI> recordList = new ArrayList<PI>();
-    
+    public ArrayList<PI> getList() {
+        return list;
+    }
+
     public Records()
     {}
     // read records
