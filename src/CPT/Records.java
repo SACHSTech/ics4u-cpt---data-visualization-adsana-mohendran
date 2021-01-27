@@ -7,8 +7,8 @@ import java.util.*;
 public class Records{
     // store PI records
     private ArrayList<PI> recordList = new ArrayList<PI>();
-    public ArrayList<PI> getList() {
-        return list;
+    public ArrayList<PI> getRecordList() {
+        return recordList;
     }
 
     public Records()
@@ -76,14 +76,14 @@ public class Records{
             // Find the minimum element in unsorted array 
             int min = intCount; 
             for (intCount2 = intCount+1; intCount2 < n; intCount2++) 
-                if (recordList.get(intCount2).getdate() < recordList.get(min).getdate()) 
+                if (recordList.get(intCount2).getdate().compareTo( recordList.get(min).getdate()) < 0) 
                     min = intCount2; 
   
             // Swap the found minimum element with the first 
             // element 
             PI temp = recordList.get(min); 
-            recordList.get(min) = recordList.get(intCount); 
-            recordList.get(intCount) = temp; 
+            recordList.set(min, recordList.get(intCount)); 
+            recordList.set(intCount, temp); 
         } 
         /*
             int n = recordList.size(); 
