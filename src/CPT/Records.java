@@ -65,6 +65,24 @@ public class Records{
     // sort records by date
     public void sortRecordsByDate(){
         
+        int n = recordList.size(); 
+        int intCount;
+        int intCount2;
+        
+        for (intCount = 0; intCount < n-1; intCount++) { 
+            // Find the minimum element in unsorted array 
+            int min = intCount; 
+            for (intCount2 = intCount+1; intCount2 < n; intCount2++) 
+                if (recordList.get(intCount2).getdate() < recordList.get(min).getdate()) 
+                    min = intCount2; 
+  
+            // Swap the found minimum element with the first 
+            // element 
+            PI temp = recordList.get(min); 
+            recordList.get(min) = recordList.get(intCount); 
+            recordList.get(intCount) = temp; 
+        } 
+        /*
             int n = recordList.size(); 
             for (int i = 0; i < n-1; i++){
                 for (int j = 0; j < n-i-1; j++){ 
@@ -77,6 +95,7 @@ public class Records{
                     } 
                 }
             }
+            */
         } 
     
     public static void main(String[] args) throws IOException{
