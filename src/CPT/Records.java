@@ -94,7 +94,7 @@ public class Records{
     public ArrayList<PI> searchProducts(String products){
         ArrayList<PI> results = new ArrayList<PI>();
         for (PI pi:recordList){
-            if (pi.getproducts().equals(product)){
+            if (pi.getproducts().equals(products)){
                     results.add(pi);
                 }
                 
