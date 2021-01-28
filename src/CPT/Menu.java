@@ -31,6 +31,7 @@ public class Menu {
         System.out.println("Select 4 to find average");
         System.out.println("Select 5 for indivudual record");
         System.out.println("Select 6 for records by index");
+        System.out.println("Select 7 for the max and min value");
         System.out.println("Select an option");
         intOption = Integer.parseInt(key.readLine());
 
@@ -132,6 +133,12 @@ public class Menu {
                 System.out.println("Record number out of bounds");
             }
             break;
+
+            case 7: 
+            // finding max and min
+
+
+            
         default:
 
         

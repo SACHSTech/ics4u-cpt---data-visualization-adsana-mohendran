@@ -9,14 +9,18 @@ import javafx.stage.Stage;
 import java.util.ArrayList;
  
  
-public class LineChart extends Application {
+public class MyLineGraph extends Application {
     // get list into this class
-    Records records;
+    //Records records;
+   // records  = new Records();
+   // records.readRecords();
+   // ArrayList<PI> recordList = records.getRecordList();
+    // graph internet service, 
+    @Override public void start(Stage stage) {
+        Records records;
     records  = new Records();
     records.readRecords();
     ArrayList<PI> recordList = records.getRecordList();
-    // graph internet service, 
-    @Override public void start(Stage stage) {
         stage.setTitle("Line Chart");
         //defining the axes
         final NumberAxis xAxis = new NumberAxis();

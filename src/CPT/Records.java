@@ -55,6 +55,21 @@ public class Records{
         }
             return null;
     }
+    // search the first record
+    public ArrayList<PI> searchDate2(String date, String term){
+        ArrayList<PI> results = new ArrayList<PI>();
+        term = term.toLowerCase();
+        for (PI pi:recordList){
+            if (pi.getdate().equals(date)){
+                if (pi.getproducts().toLowerCase().contains(term))
+                {
+                    results.add(pi);
+                }
+                
+            }
+        }
+            return results;
+    }
     // search all records
     public void searchDateAll(String date){
         for (PI pi:recordList){

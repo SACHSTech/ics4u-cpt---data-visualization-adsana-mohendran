@@ -40,8 +40,8 @@ public class Statistic {
         //declare min and max value as the first element of the list
          double dblMin = 0;
          double dblMax = 0;
-        dblMin = recordList.get(0);
-        dblMax = recordList.get(0);
+        dblMin = recordList.get(0).getvalue();
+        dblMax = recordList.get(0).getvalue();
         
         //declare min and max elements index as 0 (i.e. first element)
         double dblMinIndex = 0;
@@ -56,8 +56,8 @@ public class Statistic {
               * is new minimum value
               */
             
-            if( recordList.get(intCount) < dblMin ){
-                dblMin = recordList.get(intCount);
+            if( recordList.get(intCount).getvalue() < dblMin ){
+                dblMin = recordList.get(intCount).getvalue();
                 dblMinIndex = intCount;
             }
             
@@ -67,8 +67,8 @@ public class Statistic {
               * is new maximum value.
               */
             
-            if( recordList.get(intCount) > dblMax ){
-                dblMax = recordList.get(intCount);
+            if( recordList.get(intCount).getvalue() > dblMax ){
+                dblMax = recordList.get(intCount).getvalue();
                 dblMaxIndex = intCount;
             }
  
