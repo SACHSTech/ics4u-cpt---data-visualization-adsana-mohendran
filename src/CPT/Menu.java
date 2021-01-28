@@ -70,6 +70,7 @@ public class Menu {
             break;
 
             case 5:
+            
             // search individual record
             System.out.println("1. Search date 2. Search Geo 3. Search Product 4. Search Value");
             intChoice = Integer.parseInt(key.readLine());

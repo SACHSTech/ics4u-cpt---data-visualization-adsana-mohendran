@@ -193,16 +193,7 @@ public class Records{
             records.sortRecordsByDate();
             records.printRecords();
             String date = null;
-            // search for date
-           // System.out.println("Please enter a date");
-            //date = key.readLine();
-           // PI pi = records.searchDate(date);
-          //  if (pi != null){
-               // System.out.println(pi);
-           // }
-           // else {
-            //    System.out.println("Can't find date");
-          //  }
+           
 
     }
 }
