@@ -105,7 +105,7 @@ public class Menu {
             }
             if (intChoice == 4){
                 System.out.println("Please enter a value");
-            value = key.readLine();
+            value = Double.parseDouble(key.readLine());
            pi = records.searchValue(value);
            if (pi != null){
                System.out.println(pi);

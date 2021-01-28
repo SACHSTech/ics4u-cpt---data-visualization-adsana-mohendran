@@ -79,6 +79,58 @@ public class Records{
             }
         }
             
+    }    // search the first record
+    public ArrayList<PI> searchGeos(String geo){
+        ArrayList<PI> results = new ArrayList<PI>();
+        for (PI pi:recordList){
+            if (pi.getgeo().equals(geo)){
+                    results.add(pi);
+                }
+                
+        }
+            return results;
+    }
+    // search the first record
+    public ArrayList<PI> searchProducts(String products){
+        ArrayList<PI> results = new ArrayList<PI>();
+        for (PI pi:recordList){
+            if (pi.getproducts().equals(product)){
+                    results.add(pi);
+                }
+                
+        }
+            return results;
+    }
+    public PI searchGeo(String geo){
+        for (PI pi:recordList){
+            if (pi.getgeo().equals(geo)){
+                   return pi;
+
+                } 
+                
+        }
+            return null;
+    }
+
+    public PI searchValue(Double value){
+        for (PI pi:recordList){
+            if (pi.getvalue() == (value)){
+                   return pi;
+
+                } 
+                
+        }
+            return null;
+    }
+    // search the first record
+    public PI searchProduct(String products){
+        for (PI pi:recordList){
+            if (pi.getproducts().equals(products)){
+                    return pi;
+                }
+                
+        }
+            return null;
     }
     // sort records by date
     public void sortRecordsByDate(){
