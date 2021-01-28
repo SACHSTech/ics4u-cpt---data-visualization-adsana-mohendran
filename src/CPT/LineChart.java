@@ -8,22 +8,23 @@ import javafx.scene.chart.XYChart;
 import javafx.stage.Stage;
  
  
-public class LineChartSample extends Application {
+public class LineChart extends Application {
  
+    // graph internet service, 
     @Override public void start(Stage stage) {
-        stage.setTitle("Line Chart Sample");
+        stage.setTitle("Line Chart");
         //defining the axes
         final NumberAxis xAxis = new NumberAxis();
         final NumberAxis yAxis = new NumberAxis();
-        xAxis.setLabel("Number of Month");
+        xAxis.setLabel("Month");
         //creating the chart
         final LineChart<Number,Number> lineChart = 
                 new LineChart<Number,Number>(xAxis,yAxis);
                 
-        lineChart.setTitle("Stock Monitoring, 2010");
+        lineChart.setTitle("Comparing Services");
         //defining a series
         XYChart.Series series = new XYChart.Series();
-        series.setName("My portfolio");
+        series.setName("Services");
         //populating the series with data
         series.getData().add(new XYChart.Data(1, 23));
         series.getData().add(new XYChart.Data(2, 14));

@@ -83,7 +83,7 @@ public class Menu {
             if (intChoice == 2){
                 System.out.println("Please enter the geo");
             geo = key.readLine();
-           pi = records.searchDate(geo);
+           pi = records.searchGeo(geo);
            if (pi != null){
                System.out.println(pi);
            }
@@ -94,7 +94,7 @@ public class Menu {
             if (intChoice == 3){
                 System.out.println("Please enter the product");
             product = key.readLine();
-           pi = records.searchDate(product);
+           pi = records.searchProduct(product);
            if (pi != null){
                System.out.println(pi);
            }
@@ -105,7 +105,7 @@ public class Menu {
             if (intChoice == 4){
                 System.out.println("Please enter a value");
             value = key.readLine();
-           pi = records.searchDate(value);
+           pi = records.searchValue(value);
            if (pi != null){
                System.out.println(pi);
            }
