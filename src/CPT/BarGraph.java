@@ -19,7 +19,7 @@ import java.util.ArrayList;
  */
 
 
- // graph food, shelter, electricity
+ // graph food, homeowners, services
  // x axis dates
  // y axis price index value 
 public class BarGraph extends Application {

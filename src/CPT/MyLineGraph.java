@@ -10,12 +10,8 @@ import java.util.ArrayList;
  
  
 public class MyLineGraph extends Application {
-    // get list into this class
-    //Records records;
-   // records  = new Records();
-   // records.readRecords();
-   // ArrayList<PI> recordList = records.getRecordList();
-    // graph internet service, 
+    
+    // graph food and homeowners
     
     @Override public void start(Stage stage) {
         Records records;
@@ -36,11 +32,11 @@ public class MyLineGraph extends Application {
         foods[3] = statistic.AverageOfValues(foodRecords4);
         foods[4] = statistic.AverageOfValues(foodRecords5);
         // homeowners series
-        ArrayList<PI> homeownersRecords1 = records.searchDate2("2020-07","homeowners");
-        ArrayList<PI> homeownersRecords2 = records.searchDate2("2020-08","homeowners");
-        ArrayList<PI> homeownersRecords3 = records.searchDate2("2020-09","homeowners");
-        ArrayList<PI> homeownersRecords4 = records.searchDate2("2020-10","homeowners");
-        ArrayList<PI> homeownersRecords5 = records.searchDate2("2020-11","homeowners");
+        ArrayList<PI> homeownersRecords1 = records.searchDate2("2020-07","Homeowners");
+        ArrayList<PI> homeownersRecords2 = records.searchDate2("2020-08","Homeowners");
+        ArrayList<PI> homeownersRecords3 = records.searchDate2("2020-09","Homeowners");
+        ArrayList<PI> homeownersRecords4 = records.searchDate2("2020-10","Homeowners");
+        ArrayList<PI> homeownersRecords5 = records.searchDate2("2020-11","Homeowners");
         double[] homeowners = new double[5];
         homeowners[0] = statistic.AverageOfValues(homeownersRecords1);
         System.out.println("Homeowners" + homeowners[0]);
