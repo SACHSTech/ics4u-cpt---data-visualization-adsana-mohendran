@@ -13,7 +13,7 @@ public class Menu {
        //  ArrayList<PI> recordList = records.getList();
         String date = "";
         String geo = "";
-        String prodcut = "";
+        String product = "";
         double value = 0;
         BufferedReader key = new BufferedReader(new InputStreamReader(System.in));
         Statistic statistics = new Statistic(records);

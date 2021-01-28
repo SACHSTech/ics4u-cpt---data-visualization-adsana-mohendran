@@ -6,10 +6,15 @@ import javafx.scene.chart.LineChart;
 import javafx.scene.chart.NumberAxis;
 import javafx.scene.chart.XYChart;
 import javafx.stage.Stage;
+import java.util.ArrayList;
  
  
 public class LineChart extends Application {
- 
+    // get list into this class
+    Records records;
+    records  = new Records();
+    records.readRecords();
+    ArrayList<PI> recordList = records.getRecordList();
     // graph internet service, 
     @Override public void start(Stage stage) {
         stage.setTitle("Line Chart");
