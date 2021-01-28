@@ -12,6 +12,9 @@ public class Menu {
         ArrayList<PI> recordList = records.getRecordList();
        //  ArrayList<PI> recordList = records.getList();
         String date = "";
+        String geo = "";
+        String prodcut = "";
+        double value = 0;
         BufferedReader key = new BufferedReader(new InputStreamReader(System.in));
         Statistic statistics = new Statistic(records);
         double dblAverage = 0;
@@ -75,6 +78,39 @@ public class Menu {
            }
            else{
                System.out.println(date + " not found");
+           }
+            }
+            if (intChoice == 2){
+                System.out.println("Please enter the geo");
+            geo = key.readLine();
+           pi = records.searchDate(geo);
+           if (pi != null){
+               System.out.println(pi);
+           }
+           else{
+               System.out.println(geo + " not found");
+           }
+            }
+            if (intChoice == 3){
+                System.out.println("Please enter the product");
+            product = key.readLine();
+           pi = records.searchDate(product);
+           if (pi != null){
+               System.out.println(pi);
+           }
+           else{
+               System.out.println(product + " not found");
+           }
+            }
+            if (intChoice == 4){
+                System.out.println("Please enter a value");
+            value = key.readLine();
+           pi = records.searchDate(value);
+           if (pi != null){
+               System.out.println(pi);
+           }
+           else{
+               System.out.println(value + " not found");
            }
             }
             break;

@@ -17,10 +17,10 @@ public class Statistic {
     public Statistic(Records records){
         this.records = records;
     }
-        // find average of the price index value for certain products
+        // find average of the price index value for products
         public double AverageOfValues(){
             ArrayList<PI> recordList = records.getRecordList();
-            double dblSum = 0;
+            //double dblSum = 0;
             int intCount = 0;
             double dblTotal = 0;
             double dblAverage = 0;

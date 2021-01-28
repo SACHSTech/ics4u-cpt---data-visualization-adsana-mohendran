@@ -46,7 +46,7 @@ public class Records{
             System.out.println(pi);
         }
     }
-    // search records
+    // search the first record
     public PI searchDate(String date){
         for (PI pi:recordList){
             if (pi.getdate().equals(date)){
@@ -55,7 +55,7 @@ public class Records{
         }
             return null;
     }
-    // search records
+    // search all records
     public void searchDateAll(String date){
         for (PI pi:recordList){
             if (pi.getdate().equals(date)){
