@@ -3,29 +3,31 @@ package CPT;
 import java.io.*;
 import java.util.ArrayList;
 public class Menu {
-
+    // creating menu for user interface
+    // using methods created in Records class
     public static void main(String[] args) throws IOException{
         // get list into this class
          Records records;
         records  = new Records();
         records.readRecords();
         ArrayList<PI> recordList = records.getRecordList();
-       //  ArrayList<PI> recordList = records.getList();
+       
         String date = "";
         String geo = "";
         String product = "";
         double value = 0;
+
         BufferedReader key = new BufferedReader(new InputStreamReader(System.in));
         Statistic statistics = new Statistic(records);
         double dblAverage = 0;
         double dblMinMax = 0;
+
         // print out options
         int intOption = 0;
         int intChoice = 0;
         PI pi = null;
         do{
 
-        
         System.out.println("Select 1 to print records");
         System.out.println("Select 2 to search for records");
         System.out.println("Select 3 to sort records");
@@ -42,6 +44,7 @@ public class Menu {
             case 0:
             System.out.println("Goodbye");
             break;
+
             case 1:
             // to print records
             records.printRecords();
@@ -52,7 +55,6 @@ public class Menu {
             System.out.println("Please enter a date");
             date = key.readLine();
             records.searchDateAll(date);
-           
             break;
 
             case 3:
@@ -62,7 +64,7 @@ public class Menu {
             break;
 
             case 4:
-            // print staitisitcs
+            // print statistics
             dblAverage = statistics.AverageOfValues();
             System.out.println("The average is: " +dblAverage);
             break;
@@ -74,54 +76,53 @@ public class Menu {
             if (intChoice == 1){
                 System.out.println("Please enter a date");
             date = key.readLine();
-           pi = records.searchDate(date);
-           if (pi != null){
+             pi = records.searchDate(date);
+                 if (pi != null){
                System.out.println(pi);
-           }
-           else{
-               System.out.println(date + " not found");
-           }
+                }
+                else{
+                System.out.println(date + " not found");
+                }
             }
             if (intChoice == 2){
                 System.out.println("Please enter the geo");
             geo = key.readLine();
-           pi = records.searchGeo(geo);
-           if (pi != null){
-               System.out.println(pi);
-           }
-           else{
-               System.out.println(geo + " not found");
-           }
+            pi = records.searchGeo(geo);
+                if (pi != null){
+                System.out.println(pi);
+                }
+                else{
+                System.out.println(geo + " not found");
+                }
             }
             if (intChoice == 3){
                 System.out.println("Please enter the product");
-            product = key.readLine();
-           pi = records.searchProduct(product);
-           if (pi != null){
-               System.out.println(pi);
-           }
-           else{
+                product = key.readLine();
+                pi = records.searchProduct(product);
+               if (pi != null){
+                System.out.println(pi);
+               }
+               else{
                System.out.println(product + " not found");
-           }
+               }
             }
             if (intChoice == 4){
                 System.out.println("Please enter a value");
-            value = Double.parseDouble(key.readLine());
-           pi = records.searchValue(value);
-           if (pi != null){
-               System.out.println(pi);
-           }
-           else{
+                value = Double.parseDouble(key.readLine());
+                pi = records.searchValue(value);
+             if (pi != null){
+                System.out.println(pi);
+             }
+             else{
                System.out.println(value + " not found");
-           }
+             }
             }
             break;
 
             case 6:
             System.out.println("Please enter record number");
             intChoice = Integer.parseInt(key.readLine());
-            if (intChoice > 0 && intChoice < recordList.size())
-            {
+            if (intChoice > 0 && intChoice < recordList.size()){
                 pi = recordList.get(intChoice);
                 if (pi != null){
                     System.out.println(pi);
@@ -138,15 +139,13 @@ public class Menu {
             case 7: 
             // finding max and min
             dblMinMax = statistics.MinAndMaxValues();
-            //System.out.println("The average is: " +dblMinMax);
             break;
 
-            
         default:
 
-        
             System.out.println("Invalid Menu Option");
-        } // end switch
+        } 
+        // end switch
         // pause 
         System.out.println("Enter key to continue");
         key.readLine();
