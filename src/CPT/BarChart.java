@@ -9,6 +9,7 @@ import javafx.scene.chart.BarChart;
 import javafx.scene.chart.CategoryAxis;
 import javafx.scene.chart.NumberAxis;
 import javafx.stage.Stage;
+import java.util.ArrayList;
  
  
 /**
@@ -21,7 +22,7 @@ import javafx.stage.Stage;
  // graph food, shelter, electricity
  // x axis dates
  // y axis price index value 
-public class BarChartApp extends Application {
+public class BarChart extends Application {
     // get list into this class
          Records records;
         records  = new Records();
