@@ -92,9 +92,9 @@ public class Statistic {
  
         }
         
-        System.out.println(" Min Value is: "  + dblMin + ", Found at index: " + dblMinIndex);
+        System.out.println("Min Value is: "  + dblMin + ", Found at index: " + dblMinIndex);
  
-        System.out.println("ArrayList Max Value is: " + dblMax  + ", Found at index: " + dblMaxIndex);
+        System.out.println("Max Value is: " + dblMax  + ", Found at index: " + dblMaxIndex);
         return 0;
     }
 }

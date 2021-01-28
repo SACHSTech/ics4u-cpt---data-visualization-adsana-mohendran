@@ -18,6 +18,7 @@ public class Menu {
         BufferedReader key = new BufferedReader(new InputStreamReader(System.in));
         Statistic statistics = new Statistic(records);
         double dblAverage = 0;
+        double dblMinMax = 0;
         // print out options
         int intOption = 0;
         int intChoice = 0;
@@ -136,7 +137,9 @@ public class Menu {
 
             case 7: 
             // finding max and min
-
+            dblMinMax = statistics.MinAndMaxValues();
+            //System.out.println("The average is: " +dblMinMax);
+            break;
 
             
         default:
