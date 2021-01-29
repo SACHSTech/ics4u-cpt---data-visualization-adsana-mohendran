@@ -32,7 +32,7 @@ public class Menu {
         System.out.println("Select 2 to search for records");
         System.out.println("Select 3 to sort records");
         System.out.println("Select 4 to find average");
-        System.out.println("Select 5 for indivudual record");
+        System.out.println("Select 5 for individual record");
         System.out.println("Select 6 for records by index");
         System.out.println("Select 7 for the max and min value");
         System.out.println("Select an option");
@@ -70,7 +70,7 @@ public class Menu {
             break;
 
             case 5:
-            
+
             // search individual record
             System.out.println("1. Search date 2. Search Geo 3. Search Product 4. Search Value");
             intChoice = Integer.parseInt(key.readLine());
