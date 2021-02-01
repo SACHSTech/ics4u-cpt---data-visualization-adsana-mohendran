@@ -1,0 +1,581 @@
+REF_DATE,GEO,Products and product groups,VALUE
+2020-07,Canada,All-items,137.6
+2020-08,Canada,All-items,137.4
+2020-09,Canada,All-items,137.4
+2020-10,Canada,All-items,138.1
+2020-11,Canada,All-items,138.3
+2020-07,Canada,Food,155.8
+2020-08,Canada,Food,154.5
+2020-09,Canada,Food,153.3
+2020-10,Canada,Food,154.2
+2020-11,Canada,Food,155.0
+2020-07,Canada,Meat,176.0
+2020-08,Canada,Meat,171.3
+2020-09,Canada,Meat,169.6
+2020-10,Canada,Meat,171.8
+2020-11,Canada,Meat,173.1
+2020-07,Canada,"Fish seafood and other marine products",144.8
+2020-08,Canada,"Fish seafood and other marine products",147.4
+2020-09,Canada,"Fish seafood and other marine products",144.1
+2020-10,Canada,"Fish seafood and other marine products",143.9
+2020-11,Canada,"Fish seafood and other marine products",145.5
+2020-07,Canada,Dairy products,138.9
+2020-08,Canada,Dairy products,139.8
+2020-09,Canada,Dairy products,138.2
+2020-10,Canada,Dairy products,137.7
+2020-11,Canada,Dairy products,139.2
+2020-07,Canada,Eggs,169.7
+2020-08,Canada,Eggs,172.4
+2020-09,Canada,Eggs,174.2
+2020-10,Canada,Eggs,172.4
+2020-11,Canada,Eggs,173.0
+2020-07,Canada,Bakery products,165.1
+2020-08,Canada,Bakery products,166.6
+2020-09,Canada,Bakery products,166.0
+2020-10,Canada,Bakery products,166.1
+2020-11,Canada,Bakery products,165.8
+2020-07,Canada,Cereal products (excluding baby food),142.9
+2020-08,Canada,Cereal products (excluding baby food),143.1
+2020-09,Canada,Cereal products (excluding baby food),137.7
+2020-10,Canada,Cereal products (excluding baby food),140.9
+2020-11,Canada,Cereal products (excluding baby food),138.3
+2020-07,Canada,Fresh fruit,141.9
+2020-08,Canada,Fresh fruit,140.7
+2020-09,Canada,Fresh fruit,137.6
+2020-10,Canada,Fresh fruit,142.0
+2020-11,Canada,Fresh fruit,140.8
+2020-07,Canada,Preserved fruit and fruit preparations,136.8
+2020-08,Canada,Preserved fruit and fruit preparations,138.6
+2020-09,Canada,Preserved fruit and fruit preparations,133.8
+2020-10,Canada,Preserved fruit and fruit preparations,133.6
+2020-11,Canada,Preserved fruit and fruit preparations,134.4
+2020-07,Canada,Nuts and seeds,160.5
+2020-08,Canada,Nuts and seeds,158.1
+2020-09,Canada,Nuts and seeds,160.2
+2020-10,Canada,Nuts and seeds,156.4
+2020-11,Canada,Nuts and seeds,159.1
+2020-07,Canada,Fresh vegetables,171.8
+2020-08,Canada,Fresh vegetables,164.4
+2020-09,Canada,Fresh vegetables,158.2
+2020-10,Canada,Fresh vegetables,160.4
+2020-11,Canada,Fresh vegetables,165.6
+2020-07,Canada,Preserved vegetables and vegetable preparations,154.9
+2020-08,Canada,Preserved vegetables and vegetable preparations,150.9
+2020-09,Canada,Preserved vegetables and vegetable preparations,150.3
+2020-10,Canada,Preserved vegetables and vegetable preparations,146.3
+2020-11,Canada,Preserved vegetables and vegetable preparations,147.0
+2020-07,Canada,Sugar and confectionery,142.5
+2020-08,Canada,Sugar and confectionery,142.5
+2020-09,Canada,Sugar and confectionery,145.7
+2020-10,Canada,Sugar and confectionery,143.9
+2020-11,Canada,Sugar and confectionery,143.4
+2020-07,Canada,Edible fats and oils,144.1
+2020-08,Canada,Edible fats and oils,146.4
+2020-09,Canada,Edible fats and oils,147.6
+2020-10,Canada,Edible fats and oils,145.0
+2020-11,Canada,Edible fats and oils,141.3
+2020-07,Canada,Coffee and tea,132.1
+2020-08,Canada,Coffee and tea,130.4
+2020-09,Canada,Coffee and tea,131.5
+2020-10,Canada,Coffee and tea,131.5
+2020-11,Canada,Coffee and tea,132.0
+2020-07,Canada,"Condiments spices and vinegars",125.1
+2020-08,Canada,"Condiments spices and vinegars",123.9
+2020-09,Canada,"Condiments spices and vinegars",125.3
+2020-10,Canada,"Condiments spices and vinegars",126.5
+2020-11,Canada,"Condiments spices and vinegars",130.6
+2020-07,Canada,Other food preparations,148.0
+2020-08,Canada,Other food preparations,145.9
+2020-09,Canada,Other food preparations,146.0
+2020-10,Canada,Other food preparations,145.3
+2020-11,Canada,Other food preparations,145.5
+2020-07,Canada,Non-alcoholic beverages,130.5
+2020-08,Canada,Non-alcoholic beverages,125.6
+2020-09,Canada,Non-alcoholic beverages,126.1
+2020-10,Canada,Non-alcoholic beverages,130.9
+2020-11,Canada,Non-alcoholic beverages,131.7
+2020-07,Canada,Food purchased from restaurants,160.3
+2020-08,Canada,Food purchased from restaurants,160.7
+2020-09,Canada,Food purchased from restaurants,161.0
+2020-10,Canada,Food purchased from restaurants,161.5
+2020-11,Canada,Food purchased from restaurants,161.6
+2020-07,Canada,Shelter,146.4
+2020-08,Canada,Shelter,146.8
+2020-09,Canada,Shelter,147.3
+2020-10,Canada,Shelter,148.3
+2020-11,Canada,Shelter,148.8
+2020-07,Canada,Rent,125.9
+2020-08,Canada,Rent,127.0
+2020-09,Canada,Rent,127.3
+2020-10,Canada,Rent,127.5
+2020-11,Canada,Rent,127.7
+2020-07,Canada,Tenants' insurance premiums,112.0
+2020-08,Canada,Tenants' insurance premiums,112.7
+2020-09,Canada,Tenants' insurance premiums,113.3
+2020-10,Canada,Tenants' insurance premiums,113.2
+2020-11,Canada,Tenants' insurance premiums,113.9
+2020-07,Canada,"Tenants' maintenance repairs and other expenses",141.7
+2020-08,Canada,"Tenants' maintenance repairs and other expenses",141.7
+2020-09,Canada,"Tenants' maintenance repairs and other expenses",145.2
+2020-10,Canada,"Tenants' maintenance repairs and other expenses",148.7
+2020-11,Canada,"Tenants' maintenance repairs and other expenses",148.7
+2020-07,Canada,Mortgage interest cost,119.2
+2020-08,Canada,Mortgage interest cost,118.8
+2020-09,Canada,Mortgage interest cost,118.2
+2020-10,Canada,Mortgage interest cost,117.4
+2020-11,Canada,Mortgage interest cost,116.3
+2020-07,Canada,Homeowners' replacement cost,170.1
+2020-08,Canada,Homeowners' replacement cost,170.5
+2020-09,Canada,Homeowners' replacement cost,171.6
+2020-10,Canada,Homeowners' replacement cost,174.0
+2020-11,Canada,Homeowners' replacement cost,175.9
+2020-07,Canada,Property taxes and other special charges,167.2
+2020-08,Canada,Property taxes and other special charges,167.2
+2020-09,Canada,Property taxes and other special charges,167.2
+2020-10,Canada,Property taxes and other special charges,170.3
+2020-11,Canada,Property taxes and other special charges,170.3
+2020-07,Canada,Homeowners' home and mortgage insurance,262.9
+2020-08,Canada,Homeowners' home and mortgage insurance,262.9
+2020-09,Canada,Homeowners' home and mortgage insurance,265.4
+2020-10,Canada,Homeowners' home and mortgage insurance,265.0
+2020-11,Canada,Homeowners' home and mortgage insurance,265.0
+2020-07,Canada,Homeowners' maintenance and repairs,141.5
+2020-08,Canada,Homeowners' maintenance and repairs,141.5
+2020-09,Canada,Homeowners' maintenance and repairs,142.5
+2020-10,Canada,Homeowners' maintenance and repairs,143.6
+2020-11,Canada,Homeowners' maintenance and repairs,143.6
+2020-07,Canada,Other owned accommodation expenses,171.9
+2020-08,Canada,Other owned accommodation expenses,172.5
+2020-09,Canada,Other owned accommodation expenses,173.6
+2020-10,Canada,Other owned accommodation expenses,175.4
+2020-11,Canada,Other owned accommodation expenses,176.5
+2020-07,Canada,Electricity,147.1
+2020-08,Canada,Electricity,147.1
+2020-09,Canada,Electricity,148.2
+2020-10,Canada,Electricity,146.5
+2020-11,Canada,Electricity,146.8
+2020-07,Canada,Water,262.0
+2020-08,Canada,Water,262.0
+2020-09,Canada,Water,262.0
+2020-10,Canada,Water,262.0
+2020-11,Canada,Water,262.0
+2020-07,Canada,Natural gas,112.7
+2020-08,Canada,Natural gas,113.5
+2020-09,Canada,Natural gas,116.2
+2020-10,Canada,Natural gas,124.0
+2020-11,Canada,Natural gas,127.3
+2020-07,Canada,Fuel oil and other fuels,185.1
+2020-08,Canada,Fuel oil and other fuels,187.3
+2020-09,Canada,Fuel oil and other fuels,182.1
+2020-10,Canada,Fuel oil and other fuels,182.8
+2020-11,Canada,Fuel oil and other fuels,186.1
+2020-07,Canada,"Household operations furnishings and equipment",124.7
+2020-08,Canada,"Household operations furnishings and equipment",124.6
+2020-09,Canada,"Household operations furnishings and equipment",124.5
+2020-10,Canada,"Household operations furnishings and equipment",124.9
+2020-11,Canada,"Household operations furnishings and equipment",124.9
+2020-07,Canada,Telephone services,110.4
+2020-08,Canada,Telephone services,109.2
+2020-09,Canada,Telephone services,106.2
+2020-10,Canada,Telephone services,105.6
+2020-11,Canada,Telephone services,104.7
+2020-07,Canada,Postal and other communications services,212.5
+2020-08,Canada,Postal and other communications services,212.5
+2020-09,Canada,Postal and other communications services,212.5
+2020-10,Canada,Postal and other communications services,212.5
+2020-11,Canada,Postal and other communications services,212.5
+2020-07,Canada,Internet access services (200212=100),122.7
+2020-08,Canada,Internet access services (200212=100),120.9
+2020-09,Canada,Internet access services (200212=100),123.4
+2020-10,Canada,Internet access services (200212=100),122.7
+2020-11,Canada,Internet access services (200212=100),123.9
+2020-07,Canada,Telephone equipment (201104=100),78.2
+2020-08,Canada,Telephone equipment (201104=100),79.7
+2020-09,Canada,Telephone equipment (201104=100),81.8
+2020-10,Canada,Telephone equipment (201104=100),82.4
+2020-11,Canada,Telephone equipment (201104=100),83.5
+2020-07,Canada,Child care and housekeeping services,177.4
+2020-08,Canada,Child care and housekeeping services,177.4
+2020-09,Canada,Child care and housekeeping services,179.6
+2020-10,Canada,Child care and housekeeping services,180.1
+2020-11,Canada,Child care and housekeeping services,180.1
+2020-07,Canada,Household cleaning products,123.8
+2020-08,Canada,Household cleaning products,123.9
+2020-09,Canada,Household cleaning products,122.3
+2020-10,Canada,Household cleaning products,126.3
+2020-11,Canada,Household cleaning products,125.0
+2020-07,Canada,"Paper plastic and aluminum foil supplies",138.4
+2020-08,Canada,"Paper plastic and aluminum foil supplies",139.2
+2020-09,Canada,"Paper plastic and aluminum foil supplies",137.2
+2020-10,Canada,"Paper plastic and aluminum foil supplies",142.4
+2020-11,Canada,"Paper plastic and aluminum foil supplies",141.3
+2020-07,Canada,Pet food and supplies,155.3
+2020-08,Canada,Pet food and supplies,155.0
+2020-09,Canada,Pet food and supplies,153.0
+2020-10,Canada,Pet food and supplies,157.1
+2020-11,Canada,Pet food and supplies,155.1
+2020-07,Canada,"Seeds plants and cut flowers",129.6
+2020-08,Canada,"Seeds plants and cut flowers",129.4
+2020-09,Canada,"Seeds plants and cut flowers",129.3
+2020-10,Canada,"Seeds plants and cut flowers",130.0
+2020-11,Canada,"Seeds plants and cut flowers",129.7
+2020-07,Canada,Other horticultural goods,113.6
+2020-08,Canada,Other horticultural goods,113.4
+2020-09,Canada,Other horticultural goods,113.1
+2020-10,Canada,Other horticultural goods,113.9
+2020-11,Canada,Other horticultural goods,113.6
+2020-07,Canada,Other household supplies,122.4
+2020-08,Canada,Other household supplies,122.4
+2020-09,Canada,Other household supplies,123.8
+2020-10,Canada,Other household supplies,123.8
+2020-11,Canada,Other household supplies,123.8
+2020-07,Canada,Other household services,193.7
+2020-08,Canada,Other household services,193.7
+2020-09,Canada,Other household services,194.6
+2020-10,Canada,Other household services,194.6
+2020-11,Canada,Other household services,194.6
+2020-07,Canada,Financial services (200212=100),150.6
+2020-08,Canada,Financial services (200212=100),150.6
+2020-09,Canada,Financial services (200212=100),150.6
+2020-10,Canada,Financial services (200212=100),150.5
+2020-11,Canada,Financial services (200212=100),150.5
+2020-07,Canada,Furniture,91.0
+2020-08,Canada,Furniture,90.7
+2020-09,Canada,Furniture,91.7
+2020-10,Canada,Furniture,91.7
+2020-11,Canada,Furniture,94.1
+2020-07,Canada,Household textiles,120.4
+2020-08,Canada,Household textiles,118.8
+2020-09,Canada,Household textiles,120.5
+2020-10,Canada,Household textiles,121.3
+2020-11,Canada,Household textiles,121.2
+2020-07,Canada,Household appliances,87.9
+2020-08,Canada,Household appliances,88.7
+2020-09,Canada,Household appliances,89.0
+2020-10,Canada,Household appliances,89.1
+2020-11,Canada,Household appliances,88.3
+2020-07,Canada,"Non-electric kitchen utensils tableware and cookware",80.0
+2020-08,Canada,"Non-electric kitchen utensils tableware and cookware",84.9
+2020-09,Canada,"Non-electric kitchen utensils tableware and cookware",84.9
+2020-10,Canada,"Non-electric kitchen utensils tableware and cookware",86.1
+2020-11,Canada,"Non-electric kitchen utensils tableware and cookware",81.5
+2020-07,Canada,Tools and other household equipment,96.1
+2020-08,Canada,Tools and other household equipment,96.8
+2020-09,Canada,Tools and other household equipment,96.8
+2020-10,Canada,Tools and other household equipment,96.4
+2020-11,Canada,Tools and other household equipment,97.2
+2020-07,Canada,Services related to household furnishings and equipment,193.6
+2020-08,Canada,Services related to household furnishings and equipment,193.6
+2020-09,Canada,Services related to household furnishings and equipment,193.6
+2020-10,Canada,Services related to household furnishings and equipment,193.6
+2020-11,Canada,Services related to household furnishings and equipment,196.6
+2020-07,Canada,Clothing and footwear,92.3
+2020-08,Canada,Clothing and footwear,93.6
+2020-09,Canada,Clothing and footwear,94.6
+2020-10,Canada,Clothing and footwear,95.5
+2020-11,Canada,Clothing and footwear,96.4
+2020-07,Canada,Women's clothing,76.2
+2020-08,Canada,Women's clothing,77.2
+2020-09,Canada,Women's clothing,78.6
+2020-10,Canada,Women's clothing,79.7
+2020-11,Canada,Women's clothing,81.1
+2020-07,Canada,Men's clothing,90.0
+2020-08,Canada,Men's clothing,91.9
+2020-09,Canada,Men's clothing,92.6
+2020-10,Canada,Men's clothing,92.6
+2020-11,Canada,Men's clothing,93.6
+2020-07,Canada,Children's clothing,76.4
+2020-08,Canada,Children's clothing,76.3
+2020-09,Canada,Children's clothing,75.2
+2020-10,Canada,Children's clothing,78.8
+2020-11,Canada,Children's clothing,79.2
+2020-07,Canada,Footwear,91.5
+2020-08,Canada,Footwear,92.6
+2020-09,Canada,Footwear,94.1
+2020-10,Canada,Footwear,94.9
+2020-11,Canada,Footwear,94.0
+2020-07,Canada,"Clothing accessories watches and jewellery",140.4
+2020-08,Canada,"Clothing accessories watches and jewellery",144.4
+2020-09,Canada,"Clothing accessories watches and jewellery",145.4
+2020-10,Canada,"Clothing accessories watches and jewellery",144.7
+2020-11,Canada,"Clothing accessories watches and jewellery",147.2
+2020-07,Canada,Clothing material and notions,127.0
+2020-08,Canada,Clothing material and notions,127.0
+2020-09,Canada,Clothing material and notions,127.0
+2020-10,Canada,Clothing material and notions,127.0
+2020-11,Canada,Clothing material and notions,127.0
+2020-07,Canada,Laundry services,144.3
+2020-08,Canada,Laundry services,145.0
+2020-09,Canada,Laundry services,145.0
+2020-10,Canada,Laundry services,145.0
+2020-11,Canada,Laundry services,146.6
+2020-07,Canada,Dry cleaning services,172.6
+2020-08,Canada,Dry cleaning services,173.7
+2020-09,Canada,Dry cleaning services,173.7
+2020-10,Canada,Dry cleaning services,173.7
+2020-11,Canada,Dry cleaning services,174.4
+2020-07,Canada,Other clothing services,170.5
+2020-08,Canada,Other clothing services,171.5
+2020-09,Canada,Other clothing services,171.5
+2020-10,Canada,Other clothing services,171.5
+2020-11,Canada,Other clothing services,172.1
+2020-07,Canada,Transportation,144.3
+2020-08,Canada,Transportation,143.2
+2020-09,Canada,Transportation,142.7
+2020-10,Canada,Transportation,143.4
+2020-11,Canada,Transportation,143.5
+2020-07,Canada,Purchase of passenger vehicles,108.4
+2020-08,Canada,Purchase of passenger vehicles,107.3
+2020-09,Canada,Purchase of passenger vehicles,107.0
+2020-10,Canada,Purchase of passenger vehicles,108.4
+2020-11,Canada,Purchase of passenger vehicles,108.8
+2020-07,Canada,Leasing of passenger vehicles,102.2
+2020-08,Canada,Leasing of passenger vehicles,101.1
+2020-09,Canada,Leasing of passenger vehicles,100.9
+2020-10,Canada,Leasing of passenger vehicles,102.0
+2020-11,Canada,Leasing of passenger vehicles,102.5
+2020-07,Canada,Rental of passenger vehicles,111.8
+2020-08,Canada,Rental of passenger vehicles,111.8
+2020-09,Canada,Rental of passenger vehicles,121.6
+2020-10,Canada,Rental of passenger vehicles,121.6
+2020-11,Canada,Rental of passenger vehicles,121.6
+2020-07,Canada,Gasoline,153.1
+2020-08,Canada,Gasoline,151.9
+2020-09,Canada,Gasoline,151.3
+2020-10,Canada,Gasoline,149.0
+2020-11,Canada,Gasoline,146.8
+2020-07,Canada,"Passenger vehicle parts maintenance and repairs",150.1
+2020-08,Canada,"Passenger vehicle parts maintenance and repairs",150.1
+2020-09,Canada,"Passenger vehicle parts maintenance and repairs",150.1
+2020-10,Canada,"Passenger vehicle parts maintenance and repairs",150.6
+2020-11,Canada,"Passenger vehicle parts maintenance and repairs",150.6
+2020-07,Canada,Passenger vehicle insurance premiums,197.6
+2020-08,Canada,Passenger vehicle insurance premiums,198.1
+2020-09,Canada,Passenger vehicle insurance premiums,196.3
+2020-10,Canada,Passenger vehicle insurance premiums,197.8
+2020-11,Canada,Passenger vehicle insurance premiums,198.0
+2020-07,Canada,Passenger vehicle registration fees,139.9
+2020-08,Canada,Passenger vehicle registration fees,139.9
+2020-09,Canada,Passenger vehicle registration fees,139.9
+2020-10,Canada,Passenger vehicle registration fees,139.9
+2020-11,Canada,Passenger vehicle registration fees,139.9
+2020-07,Canada,Drivers' licences,174.5
+2020-08,Canada,Drivers' licences,174.5
+2020-09,Canada,Drivers' licences,174.5
+2020-10,Canada,Drivers' licences,174.5
+2020-11,Canada,Drivers' licences,174.5
+2020-07,Canada,Parking fees,200.3
+2020-08,Canada,Parking fees,200.3
+2020-09,Canada,Parking fees,200.2
+2020-10,Canada,Parking fees,200.3
+2020-11,Canada,Parking fees,200.3
+2020-07,Canada,All other passenger vehicle operating expenses,144.7
+2020-08,Canada,All other passenger vehicle operating expenses,144.7
+2020-09,Canada,All other passenger vehicle operating expenses,144.7
+2020-10,Canada,All other passenger vehicle operating expenses,155.2
+2020-11,Canada,All other passenger vehicle operating expenses,155.2
+2020-07,Canada,City bus and subway transportation,175.0
+2020-08,Canada,City bus and subway transportation,175.0
+2020-09,Canada,City bus and subway transportation,175.0
+2020-10,Canada,City bus and subway transportation,175.0
+2020-11,Canada,City bus and subway transportation,175.0
+2020-07,Canada,Taxi and other local and commuter transportation services,146.9
+2020-08,Canada,Taxi and other local and commuter transportation services,146.5
+2020-09,Canada,Taxi and other local and commuter transportation services,146.5
+2020-10,Canada,Taxi and other local and commuter transportation services,146.5
+2020-11,Canada,Taxi and other local and commuter transportation services,146.5
+2020-07,Canada,Air transportation,176.4
+2020-08,Canada,Air transportation,166.5
+2020-09,Canada,Air transportation,156.4
+2020-10,Canada,Air transportation,157.7
+2020-11,Canada,Air transportation,162.2
+2020-07,Canada,"Rail highway bus and other inter-city transportation",138.6
+2020-08,Canada,"Rail highway bus and other inter-city transportation",139.1
+2020-09,Canada,"Rail highway bus and other inter-city transportation",139.4
+2020-10,Canada,"Rail highway bus and other inter-city transportation",140.1
+2020-11,Canada,"Rail highway bus and other inter-city transportation",140.1
+2020-07,Canada,Health and personal care,128.4
+2020-08,Canada,Health and personal care,128.9
+2020-09,Canada,Health and personal care,129.1
+2020-10,Canada,Health and personal care,129.6
+2020-11,Canada,Health and personal care,130.0
+2020-07,Canada,Medicinal and pharmaceutical products,102.9
+2020-08,Canada,Medicinal and pharmaceutical products,102.0
+2020-09,Canada,Medicinal and pharmaceutical products,101.0
+2020-10,Canada,Medicinal and pharmaceutical products,100.9
+2020-11,Canada,Medicinal and pharmaceutical products,100.8
+2020-07,Canada,Eye care goods,117.1
+2020-08,Canada,Eye care goods,115.8
+2020-09,Canada,Eye care goods,116.2
+2020-10,Canada,Eye care goods,116.7
+2020-11,Canada,Eye care goods,117.1
+2020-07,Canada,Other health care goods,120.4
+2020-08,Canada,Other health care goods,116.7
+2020-09,Canada,Other health care goods,115.5
+2020-10,Canada,Other health care goods,120.7
+2020-11,Canada,Other health care goods,122.2
+2020-07,Canada,Eye care services (200704=100),139.3
+2020-08,Canada,Eye care services (200704=100),139.3
+2020-09,Canada,Eye care services (200704=100),139.3
+2020-10,Canada,Eye care services (200704=100),139.3
+2020-11,Canada,Eye care services (200704=100),142.5
+2020-07,Canada,Dental care services,170.1
+2020-08,Canada,Dental care services,170.1
+2020-09,Canada,Dental care services,171.6
+2020-10,Canada,Dental care services,171.6
+2020-11,Canada,Dental care services,171.6
+2020-07,Canada,Other health care services,188.6
+2020-08,Canada,Other health care services,188.6
+2020-09,Canada,Other health care services,193.9
+2020-10,Canada,Other health care services,193.9
+2020-11,Canada,Other health care services,193.9
+2020-07,Canada,Personal care supplies and equipment,105.6
+2020-08,Canada,Personal care supplies and equipment,105.3
+2020-09,Canada,Personal care supplies and equipment,105.7
+2020-10,Canada,Personal care supplies and equipment,106.6
+2020-11,Canada,Personal care supplies and equipment,107.2
+2020-07,Canada,Personal care services,156.7
+2020-08,Canada,Personal care services,165.3
+2020-09,Canada,Personal care services,165.3
+2020-10,Canada,Personal care services,165.3
+2020-11,Canada,Personal care services,166.1
+2020-07,Canada,"Recreation education and reading",116.4
+2020-08,Canada,"Recreation education and reading",116.3
+2020-09,Canada,"Recreation education and reading",116.8
+2020-10,Canada,"Recreation education and reading",116.0
+2020-11,Canada,"Recreation education and reading",115.3
+2020-07,Canada,Sporting and exercise equipment,90.7
+2020-08,Canada,Sporting and exercise equipment,89.1
+2020-09,Canada,Sporting and exercise equipment,90.9
+2020-10,Canada,Sporting and exercise equipment,86.9
+2020-11,Canada,Sporting and exercise equipment,87.0
+2020-07,Canada,"Toys games (excluding video games) and hobby supplies",91.3
+2020-08,Canada,"Toys games (excluding video games) and hobby supplies",92.0
+2020-09,Canada,"Toys games (excluding video games) and hobby supplies",90.6
+2020-10,Canada,"Toys games (excluding video games) and hobby supplies",89.2
+2020-11,Canada,"Toys games (excluding video games) and hobby supplies",89.8
+2020-07,Canada,Digital computing equipment and devices,16.9
+2020-08,Canada,Digital computing equipment and devices,16.7
+2020-09,Canada,Digital computing equipment and devices,17.3
+2020-10,Canada,Digital computing equipment and devices,17.0
+2020-11,Canada,Digital computing equipment and devices,16.4
+2020-07,Canada,Photographic equipment and supplies,26.6
+2020-08,Canada,Photographic equipment and supplies,26.9
+2020-09,Canada,Photographic equipment and supplies,26.5
+2020-10,Canada,Photographic equipment and supplies,27.3
+2020-11,Canada,Photographic equipment and supplies,26.3
+2020-07,Canada,Other recreational equipment,75.9
+2020-08,Canada,Other recreational equipment,77.0
+2020-09,Canada,Other recreational equipment,77.5
+2020-10,Canada,Other recreational equipment,75.3
+2020-11,Canada,Other recreational equipment,76.2
+2020-07,Canada,Recreational services,129.5
+2020-08,Canada,Recreational services,129.2
+2020-09,Canada,Recreational services,129.0
+2020-10,Canada,Recreational services,129.6
+2020-11,Canada,Recreational services,129.9
+2020-07,Canada,Purchase of recreational vehicles and outboard motors,119.1
+2020-08,Canada,Purchase of recreational vehicles and outboard motors,118.4
+2020-09,Canada,Purchase of recreational vehicles and outboard motors,118.4
+2020-10,Canada,Purchase of recreational vehicles and outboard motors,118.6
+2020-11,Canada,Purchase of recreational vehicles and outboard motors,118.7
+2020-07,Canada,"Fuel parts and accessories for recreational vehicles",153.9
+2020-08,Canada,"Fuel parts and accessories for recreational vehicles",152.9
+2020-09,Canada,"Fuel parts and accessories for recreational vehicles",151.8
+2020-10,Canada,"Fuel parts and accessories for recreational vehicles",150.1
+2020-11,Canada,"Fuel parts and accessories for recreational vehicles",148.0
+2020-07,Canada,"Insurance licences and other services for recreational vehicles",176.3
+2020-08,Canada,"Insurance licences and other services for recreational vehicles",176.7
+2020-09,Canada,"Insurance licences and other services for recreational vehicles",176.1
+2020-10,Canada,"Insurance licences and other services for recreational vehicles",177.7
+2020-11,Canada,"Insurance licences and other services for recreational vehicles",177.8
+2020-07,Canada,Audio equipment,45.1
+2020-08,Canada,Audio equipment,44.0
+2020-09,Canada,Audio equipment,42.0
+2020-10,Canada,Audio equipment,43.3
+2020-11,Canada,Audio equipment,44.6
+2020-07,Canada,Video equipment,21.1
+2020-08,Canada,Video equipment,21.1
+2020-09,Canada,Video equipment,21.1
+2020-10,Canada,Video equipment,21.2
+2020-11,Canada,Video equipment,20.9
+2020-07,Canada,Purchase of digital media,66.0
+2020-08,Canada,Purchase of digital media,66.0
+2020-09,Canada,Purchase of digital media,66.0
+2020-10,Canada,Purchase of digital media,81.6
+2020-11,Canada,Purchase of digital media,81.6
+2020-07,Canada,Traveller accommodation,75.8
+2020-08,Canada,Traveller accommodation,76.5
+2020-09,Canada,Traveller accommodation,74.9
+2020-10,Canada,Traveller accommodation,68.5
+2020-11,Canada,Traveller accommodation,65.5
+2020-07,Canada,Travel tours,112.3
+2020-08,Canada,Travel tours,112.0
+2020-09,Canada,Travel tours,111.8
+2020-10,Canada,Travel tours,112.4
+2020-11,Canada,Travel tours,112.5
+2020-07,Canada,Spectator entertainment (excluding video and audio subscription services),137.1
+2020-08,Canada,Spectator entertainment (excluding video and audio subscription services),137.9
+2020-09,Canada,Spectator entertainment (excluding video and audio subscription services),137.8
+2020-10,Canada,Spectator entertainment (excluding video and audio subscription services),145.0
+2020-11,Canada,Spectator entertainment (excluding video and audio subscription services),145.0
+2020-07,Canada,Video and audio subscription services,216.8
+2020-08,Canada,Video and audio subscription services,216.8
+2020-09,Canada,Video and audio subscription services,216.8
+2020-10,Canada,Video and audio subscription services,218.1
+2020-11,Canada,Video and audio subscription services,218.1
+2020-07,Canada,Use of recreational facilities and services,159.0
+2020-08,Canada,Use of recreational facilities and services,159.0
+2020-09,Canada,Use of recreational facilities and services,159.0
+2020-10,Canada,Use of recreational facilities and services,159.5
+2020-11,Canada,Use of recreational facilities and services,159.5
+2020-07,Canada,Tuition fees,175.4
+2020-08,Canada,Tuition fees,175.4
+2020-09,Canada,Tuition fees,178.8
+2020-10,Canada,Tuition fees,178.8
+2020-11,Canada,Tuition fees,178.8
+2020-07,Canada,School textbooks and supplies,147.6
+2020-08,Canada,School textbooks and supplies,144.6
+2020-09,Canada,School textbooks and supplies,145.9
+2020-10,Canada,School textbooks and supplies,150.2
+2020-11,Canada,School textbooks and supplies,150.0
+2020-07,Canada,"Other lessons courses and education services",149.8
+2020-08,Canada,"Other lessons courses and education services",149.8
+2020-09,Canada,"Other lessons courses and education services",150.3
+2020-10,Canada,"Other lessons courses and education services",150.3
+2020-11,Canada,"Other lessons courses and education services",150.3
+2020-07,Canada,Reading material (excluding textbooks),162.4
+2020-08,Canada,Reading material (excluding textbooks),162.4
+2020-09,Canada,Reading material (excluding textbooks),159.8
+2020-10,Canada,Reading material (excluding textbooks),159.9
+2020-11,Canada,Reading material (excluding textbooks),159.9
+2020-07,Canada,"Alcoholic beverages tobacco products and recreational cannabis",172.0
+2020-08,Canada,"Alcoholic beverages tobacco products and recreational cannabis",171.9
+2020-09,Canada,"Alcoholic beverages tobacco products and recreational cannabis",172.2
+2020-10,Canada,"Alcoholic beverages tobacco products and recreational cannabis",172.6
+2020-11,Canada,"Alcoholic beverages tobacco products and recreational cannabis",172.2
+2020-07,Canada,Alcoholic beverages served in licensed establishments,148.1
+2020-08,Canada,Alcoholic beverages served in licensed establishments,147.8
+2020-09,Canada,Alcoholic beverages served in licensed establishments,147.9
+2020-10,Canada,Alcoholic beverages served in licensed establishments,148.2
+2020-11,Canada,Alcoholic beverages served in licensed establishments,147.5
+2020-07,Canada,Alcoholic beverages purchased from stores,124.8
+2020-08,Canada,Alcoholic beverages purchased from stores,125.1
+2020-09,Canada,Alcoholic beverages purchased from stores,125.8
+2020-10,Canada,Alcoholic beverages purchased from stores,126.3
+2020-11,Canada,Alcoholic beverages purchased from stores,126.0
+2020-07,Canada,Cigarettes,244.3
+2020-08,Canada,Cigarettes,244.5
+2020-09,Canada,Cigarettes,247.3
+2020-10,Canada,Cigarettes,249.7
+2020-11,Canada,Cigarettes,249.6
+2020-07,Canada,Other tobacco products and smokers' supplies,249.7
+2020-08,Canada,Other tobacco products and smokers' supplies,249.9
+2020-09,Canada,Other tobacco products and smokers' supplies,252.6
+2020-10,Canada,Other tobacco products and smokers' supplies,255.3
+2020-11,Canada,Other tobacco products and smokers' supplies,255.1
+2020-07,Canada,Recreational cannabis,89.2
+2020-08,Canada,Recreational cannabis,88.3
+2020-09,Canada,Recreational cannabis,85.8
+2020-10,Canada,Recreational cannabis,84.0
+2020-11,Canada,Recreational cannabis,83.8
